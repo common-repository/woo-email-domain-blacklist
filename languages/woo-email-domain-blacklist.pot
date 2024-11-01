@@ -1,0 +1,89 @@
+# Copyright (C) 2015 Woo EDD Email Domain Blacklist
+# This file is distributed under the same license as the Woo EDD Email Domain Blacklist package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Woo EDD Email Domain Blacklist 2.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/woo-email-domain-"
+"blacklist\n"
+"POT-Creation-Date: 2015-12-10 18:39:50+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: admin/email-blacklist-admin.php:30
+msgid "Settings"
+msgstr ""
+
+#: admin/email-blacklist-admin.php:53
+msgid "Woo EDD Email Blacklist"
+msgstr ""
+
+#: admin/email-blacklist-admin.php:73
+msgid "Blacklist"
+msgstr ""
+
+#: admin/email-blacklist-admin.php:74
+msgid "Enter email domain name in each line"
+msgstr ""
+
+#: admin/email-blacklist-admin.php:76
+msgid "eg. yahoo.com"
+msgstr ""
+
+#: admin/email-blacklist-admin.php:80
+msgid "Error Notice"
+msgstr ""
+
+#: admin/email-blacklist-admin.php:81
+msgid "Error notice when a blacklisted email found"
+msgstr ""
+
+#: admin/email-blacklist-admin.php:83
+msgid ""
+"eg. This email domain has been blacklisted. Please try another email address"
+msgstr ""
+
+#: admin/email-blacklist-admin.php:87
+msgid "Enable External blacklist"
+msgstr ""
+
+#: admin/email-blacklist-admin.php:88
+msgid ""
+"There is a list of disposable/temporary email domains in <a href=\"https://"
+"github.com/kowsar89/temporary-email-domains/\" target=\"_blank\">Github</a>. "
+"You can use this list too along with your own blacklist."
+msgstr ""
+
+#: public/email-blacklist.php:99
+msgid ""
+"This email domain has been blacklisted. Please try another email address"
+msgstr ""
+
+#: public/email-blacklist.php:111
+msgid "Run Weekly"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Woo EDD Email Domain Blacklist"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://kowsarhossain.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"A lightweight plugin to block any email domain from WooCommerce and Easy "
+"Digital Download checkout page"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Md. Kowsar Hossain"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://kowsarhossain.com"
+msgstr ""
